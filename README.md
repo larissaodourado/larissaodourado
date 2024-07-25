@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">olá, eu sou a Larissa ;D<h1>
+  <h1 align="center"><h1>
     <p align="center">iniciante na área de desenvolvimento web<p>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <div align="center">
